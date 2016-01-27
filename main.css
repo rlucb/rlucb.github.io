@@ -1,0 +1,37 @@
+body{
+
+}
+
+.navbar{
+	border-bottom: 2px solid black;
+}
+
+.brand{
+	margin-left: 10px;
+}
+.social-media{
+	margin-top: 10px;
+}
+
+.social-media a{
+	color: black;
+}
+
+.social-media i{
+	margin-right: 10px;
+	padding-right: 20px;
+	border-right: 2px solid black;
+}
+
+.announcements{
+	height: 300px;
+	border-bottom: 3px solid black;
+}
+
+.footer{
+	margin-top: 5px;
+}
+
+.clb-cont{
+	border-right: 2px solid black;
+}
